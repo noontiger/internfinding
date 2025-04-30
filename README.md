@@ -1,3 +1,5 @@
+这是一款基于 Vite + React + TypeScript + shadcn-ui 的前端项目，主要用于实习信息整理。
+
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
@@ -42,10 +44,6 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/d3ffa6ed-2634-46d4-bd3a-b125382e5c35) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
